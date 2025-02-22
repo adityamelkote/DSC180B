@@ -44,7 +44,7 @@ Since blockchains struggle with **scalability**, we store datasets **off-chain i
 Our project builds a **secure, trustless, and scalable data marketplace** by integrating:  
 🛡️ **Ethereum-based smart contracts** for transparency  
 📂 **IPFS storage** to eliminate central failure points  
-🔒 **Encryption & PII Removal** to ensure privacy  
+🔒 **PII Removal** to ensure privacy  
 💱 **MetaMask integration** for seamless transactions  
 
 **How It Works:**  
@@ -77,7 +77,6 @@ Our solution **combines these advancements** to create a **secure, scalable, and
 ✅ **Data Storage (Amazon S3, Pinata, IPFS)**  
 ✅ **Frontend & Backend (Next.js, Ethers.js)**  
 ✅ **NLP-Based PII Removal (spaCy for Entity Detection)**  
-✅ **Encryption (AES, Homomorphic Encryption)**  
 
 ### **4.2 How the System Works**  
 1️⃣ **Seller uploads dataset** → PII **detected and removed**  
