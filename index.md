@@ -22,7 +22,7 @@ Data scientists require vast amounts of data to train models. **Current data mar
 ✅ **InterPlanetary File System (IPFS)** for secure, off-chain storage  
 ✅ **Blockchain-based marketplace** ensuring trustless interactions  
 
-🔗 **[GitHub Repository](https://github.com/Fangtastic7/DSC-180A-B16---Group1)**  
+🔗 **[GitHub Repository](https://github.com/Fangtastic7/DSC-180B-B16--Group1)**  
 
 ---
 
