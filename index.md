@@ -1,6 +1,30 @@
 ---
 layout: default
 title: DataMatch - The Future of Data Transactions
+output:
+    html_document: 
+        toc: true
+        toc_float: true
+        toc_collapsed: true
+        toc_depth: 3
+        number_sections: true
+        toc_style: >
+          <style>
+            #TOC {
+              position: fixed;
+              left: 0;
+              top: 0;
+              width: 250px;
+              height: 100%;
+              overflow-y: auto;
+              padding: 20px;
+              background-color: #f8f9fa;
+              border-right: 1px solid #dee2e6;
+            }
+            .main-content {
+              margin-left: 260px;
+            }
+          </style>
 ---
 
 # DataMatch - The Future of Data Transactions  
