@@ -51,7 +51,10 @@ Our project builds a **secure, trustless, and scalable data marketplace** by int
 1️⃣ **Sellers list datasets**, which are **encrypted and uploaded to IPFS**  
 2️⃣ **Smart contracts handle transactions** securely  
 3️⃣ **Buyers purchase access** to the dataset using MetaMask  
-4️⃣ **Datasets remain secure & accessible** via cryptographic keys  
+4️⃣ **Datasets remain secure & accessible** via cryptographic keys
+
+![image](https://github.com/user-attachments/assets/3d99f53f-ba6f-4007-a90b-bc4c05f82b0c)
+
 
 🌟 **Smart contracts automate** licensing, payments, and access control, making DataMatch a **secure and decentralized alternative** to traditional data markets.
 
@@ -91,11 +94,13 @@ Our solution **combines these advancements** to create a **secure, scalable, and
 
 ## 5. Methods  
 
+![image](https://github.com/user-attachments/assets/dec89705-07da-4c35-986f-b490cfa16df8)
+
 ### **5.1 Smart Contract Functionality**  
 - `listData()`: Seller lists dataset (automatically encrypts & removes PII)  
 - `buyData()`: Buyer purchases dataset (transaction confirmed via blockchain)  
 - `delistData()`: Seller removes dataset from marketplace  
-- `getInventory()`: Buyer accesses purchased datasets  
+- `getUserPurchased() & getCID()`: Buyer accesses purchased datasets  
 
 ⚙️ **All transactions are immutable and recorded transparently on the Ethereum blockchain**.
 
@@ -129,6 +134,9 @@ Our solution **combines these advancements** to create a **secure, scalable, and
 4️⃣ **Smart contract manages** transactions securely.  
 
 🌟 **Transactions are automatic, eliminating intermediaries!**  
+
+![image](https://github.com/user-attachments/assets/ee289bbe-3c87-4780-b70f-bca88d27f36b)
+
 
 ---
 
