@@ -22,9 +22,10 @@ Data scientists require vast amounts of data to train models. **Current data mar
 ✅ **InterPlanetary File System (IPFS)** for secure, off-chain storage  
 ✅ **Blockchain-based marketplace** ensuring trustless interactions  
 
+🔗 **[Visit Our Live Website](https://datamatch-ucsd.vercel.app/)**
 🔗 **[GitHub Repository](https://github.com/Fangtastic7/DSC-180B-B16--Group1)**
-🔗 **[Poster](https://github.com/adityamelkote/DSC180B/blob/main/Poster.pdf)** 
-
+🔗 **[Poster](https://github.com/adityamelkote/DSC180B/blob/main/Poster.pdf)**
+🔗 **[Report](#)**
 
 ---
 
@@ -157,7 +158,6 @@ We sincerely thank:
 📚 **Professor Bellur**  
 🛠️ **TA Aritra Das** for their guidance and support  
 
-🔗 **[Visit Our Live Website](#)**  
 
 ---
 
