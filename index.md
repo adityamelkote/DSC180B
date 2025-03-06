@@ -25,7 +25,7 @@ Data scientists require vast amounts of data to train models. **Current data mar
 🔗 **[Visit Our Live Website](https://datamatch-ucsd.vercel.app/)**
 🔗 **[GitHub Repository](https://github.com/Fangtastic7/DSC-180B-B16--Group1)**
 🔗 **[Poster](https://github.com/adityamelkote/DSC180B/blob/main/Poster.pdf)**
-🔗 **[Report](#)**
+🔗 **[Report](https://github.com/Fangtastic7/DSC-180B-B16--Group1/blob/main/DSC_180B_B16_Group_1_Q2_Report_FINAL.pdf)**
 
 ---
 
